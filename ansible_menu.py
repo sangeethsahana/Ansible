@@ -82,7 +82,8 @@ def ansible():
 		else:
 			print("not supported")
 		input("\nplz enter to continue...")
-
+		
+ansible()
 		
 
 
